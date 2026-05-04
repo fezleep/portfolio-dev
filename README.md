@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Felipe Virginio — Portfolio
 
-## Getting Started
+Software Engineer working with backend, fullstack and cloud systems.
 
-First, run the development server:
+Currently working as a Web Developer at a non-profit, building APIs, automation flows and handling real-world data problems.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This portfolio is a direct reflection of how I work: simple interfaces connected to real systems.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js
+- TailwindCSS
+- Framer Motion
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## What I do
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Backend development (Python, Node.js)
+- API design and integrations
+- Automation and AI-assisted workflows
+- Fullstack development when needed
+- Cloud fundamentals (AWS, GCP)
+- Data handling (SQL, structured systems)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### CloseZap AI
+AI sales assistant for WhatsApp  
+Automates conversations, qualifies leads and integrates with backend workflows  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### TMDB Movie API
+REST API built with Flask  
+Fetches and structures movie data from external APIs  
+
+---
+
+## Live
+
+👉 https://seu-site.vercel.app
+
+---
+
+## Contact
+
+- Email: virginio.9001@gmail.com
+- LinkedIn: https://linkedin.com/in/fezleep
+- GitHub: https://github.com/fezleep
