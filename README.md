@@ -41,8 +41,8 @@ Fetches and structures movie data from external APIs
 
 ## Live
 
-👉 https://seu-site.vercel.app
-
+👉 [https://seu-site.vercel.app
+](https://portfolio-dev-alpha-eight.vercel.app/)
 ---
 
 ## Contact
